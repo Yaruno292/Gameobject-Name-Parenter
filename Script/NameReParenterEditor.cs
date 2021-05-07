@@ -11,9 +11,20 @@ public class NameReParenterEditor : Editor
         DrawDefaultInspector();
 
         NameReParenter reParenter = (NameReParenter)target;
+
         if (GUILayout.Button("Combine"))
         {
             reParenter.ReParent();
+        }
+
+        if (GUILayout.Button("Revert"))
+        {
+            reParenter.Revert();
+        }
+
+        if (GUILayout.Button("Done"))
+        {
+            reParenter.CleanUp();
         }
     }
 }
