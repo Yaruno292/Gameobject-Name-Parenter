@@ -20,3 +20,7 @@ New Parent: This is the GameObject you are going to use in the end. aka the resu
 Old Parent: This is the GameObject you want to put the children into the other GameObject. (Clothes armature)
 
 Press the "Combine" button to merge the GameObjects.
+
+## Warning
+Be sure to make backups before pressing "Combine"
+The changes are hard to revert
