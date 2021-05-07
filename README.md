@@ -22,5 +22,5 @@ Old Parent: This is the GameObject you want to put the children into the other G
 Press the "Combine" button to merge the GameObjects.
 
 ## Warning
-Be sure to make backups before pressing "Combine"
+Be sure to make backups before pressing "Combine".  
 The changes are hard to revert
