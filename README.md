@@ -19,8 +19,4 @@ Select the 2 GameObjects you want to parent into eachother.
 New Parent: This is the GameObject you are going to use in the end. aka the result.  
 Old Parent: This is the GameObject you want to put the children into the other GameObject. (Clothes armature)
 
-After putting in the GameObjects you simply press PLAY and the script will run.  
-If you are not happy with the result just exit play mode and it will reset.
-
-If you want to save the changes, simply copy the GameObject in playmode.  
-And paste it after you exited playmode.
+Press the "Combine" button to merge the GameObjects.
